@@ -1,10 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 # 👋 Welcome to my GitHub
-
-- 🔭 I’m currently working on - A personal project it is still at the pen to page stage<br>
-- 🌱 I’m currently learning - HTML, CSS, JavaScript
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=IndieMasco&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
