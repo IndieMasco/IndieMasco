@@ -1,8 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 <h1 align="center">👋 Welcome to my GitHub </h1>
-
-<p align="center"> - 🔭 I’m currently working on - A personal project it is still at the pen to page stage.<br><br></p>
-<p align="center"> - 🌱 I’m currently learning - HTML, CSS, JavaScript<br><br></p>
+<h1 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h1>
+<div align="center"> 
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src=https://github.com/tandpfun/skill-icons?!=github,
+</div>
 
 
 <h1 align="center"> 🌐 Socials: </h1>
