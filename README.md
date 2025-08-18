@@ -1,9 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 <h1 align="center">👋 Welcome to my GitHub </h1>
-<h1 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h1>
-<div align="center"> 
-  <img src=HTML.svg>
-</div>
+
 
 
 <h1 align="center"> 🌐 Socials: </h1>
