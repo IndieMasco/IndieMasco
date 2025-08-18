@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 <h1 align="center">👋 Welcome to my GitHub </h1>
-- 🔭 I’m currently working on - A personal project it is still at the pen to page stage.<br><br>
+<p align="center"> - 🔭 I’m currently working on - A personal project it is still at the pen to page stage.<br><br></p>
 - 🌱 I’m currently learning - HTML, CSS, JavaScript<br><br>
 
 
