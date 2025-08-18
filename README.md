@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
+<h1 align="center">👋 Welcome to my GitHub </h1> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 - 🔭 I’m currently working on - A personal project it is still at the pen to page stage.<br><br>
 - 🌱 I’m currently learning - HTML, CSS, JavaScript<br><br>
 
