@@ -2,8 +2,7 @@
 <h1 align="center">👋 Welcome to my GitHub </h1>
 <h1 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️ </h1>
 <div align="center"> 
-  <a href="https://github.com/tandpfun/skill-icons">
-    <img src=https://github.com/tandpfun/skill-icons?!=github,
+  <img src=HTML.svg>
 </div>
 
 
