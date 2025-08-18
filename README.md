@@ -1,5 +1,7 @@
-# 💫 About Me:
-- 🔭 I’m currently working on - A personal project it is still at the pen to page stage<br>- 🌱 I’m currently learning - HTML, CSS, JavaScript
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+# 👋 Welcome to my GitHub
+- 🔭 I’m currently working on - A personal project it is still at the pen to page stage<br>
+- 🌱 I’m currently learning - HTML, CSS, JavaScript
 
 
 ## 🌐 Socials:
