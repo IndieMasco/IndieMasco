@@ -6,10 +6,10 @@
 <h1 align="center"> 📊 GitHub Stats </h1>  
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-
 </div>
 
 
