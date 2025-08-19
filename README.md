@@ -5,7 +5,7 @@
 
 <h1 align="center"> 📊 GitHub Stats </h1>  
 
-![IndieMasco's Stats](https://github-readme-stats.vercel.app/api?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center"> ![IndieMasco's Stats](https://github-readme-stats.vercel.app/api?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) </p>
 ![IndieMasco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   
