@@ -8,7 +8,7 @@
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-![IndieMasco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndieMasco&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 
 </div>
 
