@@ -3,6 +3,12 @@
 <h1 align="center"> 👋 Welcome to my GitHub </h1>
 <p align="center"> - 🌱 I’m currently learning HTML, CSS, JavaScrit </p>
 
+<div align="center">
+  
+![A GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZ2YzZpdjZ4OTAzc2FmcjZtYW9oNDFiNjF1cjZtMjZjNnFzNmp3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif)
+
+</div>
+
 <h1 align="center"> 📊 GitHub Stats </h1>  
 
 <div align="center">
