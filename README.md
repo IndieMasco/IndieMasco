@@ -2,7 +2,7 @@
 
 <h1 align="center"> 👋 Welcome to my GitHub </h1>
 <p align="center"> - 🌱 I’m currently learning </p>
-<p align="center"> - HTML | CSS | Tailwind CSS | JavaScript | SQL | React | Next.js | Node.js </p>
+<p align="center"> HTML | CSS | Tailwind CSS | JavaScript | SQL | React | Next.js | Node.js </p>
 
 <div align="center">
   
