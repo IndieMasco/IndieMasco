@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
+
 
 <h1 align="center"> 👋 Welcome to my GitHub </h1>
 <p align="center"> - 🌱 I’m currently learning </p>
