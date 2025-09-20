@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my GitHub </h1>
+<h1 align="center"> 👋 Welcome to my GitHub 👋 </h1>
 
 - 👋 Hi, I’m Sam aka @IndieMasco
 - 👀 I’m interested in Tech, Gaming, Anime, Growing bonsai trees, Playing DnD, and Magic The Gathering
