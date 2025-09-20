@@ -1,14 +1,13 @@
 
 
-<h1 align="center"> 👋 Welcome to my GitHub </h1>
-<p align="center"> - 🌱 I’m currently learning </p>
-<p align="center"> HTML | CSS | Tailwind CSS | JavaScript | SQL | React | Next.js | Node.js </p>
+<h1 align="center"> Welcome to my GitHub </h1>
+- 👋 Hi, I’m Sam aka IndieMasco
+- 👀 I’m interested in Tech, Gaming, and growing my bonsai 
+- 🌱 I’m currently learning - React & Tailwind CSS
+- 💾 My current tech stack is - HTML | CSS | Tailwind CSS | JavaScript | SQL | React | Next.js | Node.js
+- 📫 How to reach me: send me a message on [Linkedin](www.linkedin.com/in/sam-p-j-clark)
 
-<div align="center">
-  
-![A GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRxYWltZjN5ajZsbG5rNTYzeHVqdHA4dThxc3VqN25oYmw4b3UyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
 
-</div>
 
   
 <!--
