@@ -1,6 +1,5 @@
-
-
 <h1 align="center"> Welcome to my GitHub </h1>
+
 - 👋 Hi, I’m Sam aka IndieMasco
 - 👀 I’m interested in Tech, Gaming, and growing my bonsai 
 - 🌱 I’m currently learning - React & Tailwind CSS
