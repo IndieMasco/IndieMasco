@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sam aka @IndieMasco
 - 👀 I’m interested in - Tech, Gaming, Anime, Bonsai trees, Playing DnD, and Magic The Gathering
-- 🔭 I’m currently working on - My portfolio
 - 🌱 I’m currently learning - React & Tailwind CSS
 - 💾 My current tech stack is - HTML | CSS | Tailwind CSS | JavaScript | React | SQL | PostgreSQL | Next.js | Node.js
 - 📫 How to reach me - Send me a message on [Linkedin](www.linkedin.com/in/sam-p-j-clark)
