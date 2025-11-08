@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam aka @IndieMasco
-- 🔭 I’m currently working on - [Final Count](https://github.com/IndieMasco/Final-Count)
+- 🔭 I’m currently working on - To many personal projects at the same time :joy:
 - 👀 I’m interested in - Tech, Gaming, Anime, Bonsai trees, Playing DnD, and Magic The Gathering
 - 🌱 I’m currently learning - Next.js
 - 💾 My current tech stack is - HTML | CSS | Tailwind CSS | JavaScript | React | SQL | PostgreSQL | Next.js | Node.js
