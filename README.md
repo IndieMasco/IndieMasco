@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam aka @IndieMasco
 - 🔭 I’m currently working on - Digital Dice Kit
 - 👀 I’m interested in - Tech, Gaming, Anime, Manga, Playing DnD, Magic The Gathering, and Bonsai trees
-- 🌱 I’m currently learning - Next.js
+- 🌱 I’m currently learning - React Native
 - 💾 My current tech stack is - HTML | CSS | Tailwind CSS | JavaScript | React | SQL | PostgreSQL | Next.js | Node.js
 - 📫 How to reach me - Send me a message on [Linkedin](www.linkedin.com/in/sam-p-j-clark)
 
