@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam aka @IndieMasco
-- 🔭 I’m currently working on - Digital Dice Kit
+- 🔭 I’m currently working on - My 1st mobile App
 - 👀 I’m interested in - Tech, Gaming, Anime, Manga, Playing DnD, Magic The Gathering, and Bonsai trees
 - 🌱 I’m currently learning - React Native
 - 💾 My current tech stack is - HTML | CSS | Tailwind CSS | JavaScript | React | SQL | PostgreSQL | Next.js | Node.js
