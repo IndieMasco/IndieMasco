@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Sam aka @IndieMasco
-- 🔭 I’m currently working on - My 1st mobile App
-- 👀 I’m interested in - Tech, Gaming, Anime, Manga, Playing DnD, and Magic The Gathering
-- 🌱 I’m currently learning - React Native
-- 💾 My current tech stack is - HTML | CSS | Tailwind CSS | JavaScript | React | React Native | Next.js | SQL | PostgreSQL | Node.js
-- 📫 How to reach me - Send me a message on [Linkedin](www.linkedin.com/in/sam-p-j-clark) or [Discord](https://discord.gg/Eu9SzzU94m )
+# 👋 Welcome!
+
+### Hi, I’m Sam aka @IndieMasco
+* 🔭 **I’m currently working on** - My 1st mobile App
+* 🌱 **I’m currently learning** - React Native
+* 💬 **I’m interested in** - Tech, Gaming, Anime, Manga, Playing DnD, and Magic The Gathering
+* 💻 **My current tech stack is** - HTML | CSS | Tailwind CSS | JavaScript | React | React Native | Next.js | SQL | PostgreSQL | Node.js
+* 📫 **How to reach me** - [LinkedIn](https://www.linkedin.com/in/sam-p-j-clark) or [Discord](https://discord.gg/Eu9SzzU94m)
+
+---
+
+## 🏗️ Wafflestone Studios
+**Wafflestone Studios** is my independent software brand dedicated to building clean, reliable, and privacy-focused tools. 
+
+As a Junior Full Stack Developer, I use this studio as a platform to turn my passion projects into professional-grade software. Whether it’s mobile applications or web platforms, my mission is to create "honest software"—products that are lightweight, user-centric, and completely free from the clutter of ads and intrusive tracking.
+
+**Follow the Journey:**
+* ☕ [Support on Buy Me a Coffee](https://buymeacoffee.com/wafflestonestudios)
+* 📢 [Join the Discord Community](https://discord.gg/Eu9SzzU94m)
+* 🔵 [Facebook Page](https://www.facebook.com/profile.php?id=61573356828552)
 
 
 
