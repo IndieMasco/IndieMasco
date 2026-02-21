@@ -14,7 +14,7 @@ I am a Junior Full Stack Developer dedicated to building and learning in my spar
 ## 🏗️ **Wafflestone Studios**
 Wafflestone Studios is my independent software brand in which I plan on putting all my projects under with a vision to building clean, reliable mobile apps and websites.
 
-As a Junior Full Stack Developer, I use this studio as a platform to turn my passion projects into professional-grade software that is available for anyone to use. Whether it’s mobile applications or web platforms, I am dedicated to growing my brand and refining my craft in my spare time. I'm excited to see where this journey takes me.
+As a Junior Full Stack Developer, I use this studio as a platform to turn my passion projects into professional grade software that is available for anyone to use. Whether it’s mobile applications or web platforms, I am dedicated to growing my brand and refining my craft in my spare time. I'm excited to see where this journey takes me.
 
 **Follow the Journey:**
 * 📢 [**Join the Discord Community**](https://discord.gg/Eu9SzzU94m)
