@@ -9,8 +9,6 @@ I am a Junior Full Stack Developer dedicated to building and learning in my spar
 * 💻 **My current tech stack is** - HTML | CSS | Tailwind CSS | JavaScript | React | React Native | Next.js | SQL | PostgreSQL | Node.js
 * 📫 **How to reach me** - [**LinkedIn**](https://www.linkedin.com/in/sam-p-j-clark) or [**Discord**](https://discord.gg/Eu9SzzU94m)
 
----
-
 ## 🏗️ **Wafflestone Studios**
 Wafflestone Studios is my independent software brand in which I plan on putting all my projects under with a vision to building clean, reliable mobile apps and websites.
 
