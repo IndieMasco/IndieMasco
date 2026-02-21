@@ -15,9 +15,8 @@
 As a Junior Full Stack Developer, I use this studio as a platform to turn my passion projects into professional-grade software. Whether it’s mobile applications or web platforms, my mission is to create "honest software"—products that are lightweight, user-centric, and completely free from the clutter of ads and intrusive tracking.
 
 **Follow the Journey:**
-* ☕ [Support on Buy Me a Coffee](https://buymeacoffee.com/wafflestonestudios)
 * 📢 [Join the Discord Community](https://discord.gg/Eu9SzzU94m)
-* 🔵 [Facebook Page](https://www.facebook.com/profile.php?id=61573356828552)
+* ☕ [Support on Buy Me a Coffee](https://buymeacoffee.com/wafflestonestudios)
 
 
 
