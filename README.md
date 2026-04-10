@@ -10,7 +10,7 @@ I am a Junior Full Stack Developer dedicated to building and learning in my spar
     * **Languages:** HTML | CSS | JavaScript | TypeScript | SQL
     * **Frameworks:** Tailwind CSS | React | React Native | Next.js | Node.js | Express | RESTful APIs
     * **Databases:** PostgreSQL | Supabase
-    * **Tools:** Git | GitHub | Vite | Vitest | Render | Excel (Power Query) | Trello | Figma
+    * **Tools:** Vite | Vitest | Render | Trello | Figma
 * 📫 **How to reach me** - [**LinkedIn**](https://www.linkedin.com/in/sam-p-j-clark) 
 
 
