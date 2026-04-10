@@ -6,7 +6,11 @@ I am a Junior Full Stack Developer dedicated to building and learning in my spar
 * 🔭 **I’m currently working on** - [Digital Dice Kit](https://github.com/IndieMasco/Digital-Dice-Kit)
 * 🌱 **I’m currently learning** - React Native
 * 💬 **I’m interested in** - Tech, Gaming, Anime, Manga, Playing DnD, and Magic The Gathering
-* 💻 **My current tech stack is** - HTML | CSS | Tailwind CSS | JavaScript | React | React Native | Next.js | SQL | PostgreSQL | Node.js
+* 💻 **My current tech stack is** 
+    * **Languages:** HTML | CSS | JavaScript | TypeScript | SQL
+    * **Frameworks:** Tailwind CSS | React | React Native | Next.js | Node.js | Express | RESTful APIs
+    * **Databases:** PostgreSQL | Supabase
+    * **Tools:** Git | GitHub | Vite | Vitest | Render | Excel (Power Query) | Trello | Figma
 * 📫 **How to reach me** - [**LinkedIn**](https://www.linkedin.com/in/sam-p-j-clark) 
 
 
